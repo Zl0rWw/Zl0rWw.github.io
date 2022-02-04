@@ -13,9 +13,20 @@ html {
   display: flex;
   align-items: center;
   align: center;
+  margin-left: 10%;
+  margin-right:10%;
   justify-content: center;
-  background: #1e1e1e;
 }
+
+body,
+html .banner-image {
+  background-color:black;
+  opacity:95%;
+  background-position: center !important;
+  background-size: 150% auto !important;
+  background-image: url(https://i.pinimg.com/originals/15/5e/42/155e42142d8c3f29ab16ed90a11d016d.gif);
+}
+
 
 
 .tooltip {
@@ -49,6 +60,8 @@ html {
 
 .card-container {
   display: flex;
+  margin-left: 16%;
+  margin-right:10%;
   flex-direction: row;
   justify-content: space-between;
   width: 1350px;
