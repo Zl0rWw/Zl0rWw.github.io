@@ -24,7 +24,7 @@ html .banner-image {
   opacity:95%;
   background-position: center !important;
   background-size: 150% auto !important;
-  background-image: url(https://i.pinimg.com/originals/15/5e/42/155e42142d8c3f29ab16ed90a11d016d.gif);
+  background: rgb(32, 32, 32);
 }
 
 
